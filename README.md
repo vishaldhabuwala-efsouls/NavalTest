@@ -1,2 +1,0 @@
-# NavalTest
-Oil Company Project
